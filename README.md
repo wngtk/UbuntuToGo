@@ -1,5 +1,5 @@
 # UbuntuToGo
 
-## Extensions
+## VSCode Extensions
 
 - Windows Default Keybindings
