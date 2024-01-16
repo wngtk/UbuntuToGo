@@ -1,5 +1,9 @@
 # UbuntuToGo
 
+## Awesome Software
+
+- https://github.com/gmg137/netease-cloud-music-gtk
+
 ## VSCode Extensions
 
 - Windows Default Keybindings
